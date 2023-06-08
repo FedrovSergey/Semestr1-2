@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\varva\source\repos\lab9\lab9\main.cpp(9,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\varva\source\repos\lab9\lab9\main.cpp(19,5): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\varva\source\repos\lab9\lab9\main.cpp(25,4): warning C4551: в вызове функции отсутствует список аргументов
+  lab9.vcxproj -> C:\Users\varva\source\repos\lab9\x64\Debug\lab9.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\User\source\repos\lab6\lab6\main.c(49,16): warning C4101: bf: неиспользованная локальная переменная
+C:\Users\User\source\repos\lab6\lab6\main.c(141,1): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "char [1]"
+C:\Users\User\source\repos\lab6\lab6\main.c(122): warning C4716: createList: должна возвращать значение
+  lab6.vcxproj -> C:\Users\User\source\repos\lab6\Debug\lab6.exe

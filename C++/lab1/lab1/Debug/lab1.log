@@ -1,0 +1,7 @@
+﻿  lab1.c
+C:\Users\User\source\repos\lab1\lab1\lab1.c(27,23): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+C:\Users\User\source\repos\lab1\lab1\lab1.c(27,23): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\User\source\repos\lab1\lab1\lab1.c(37,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+C:\Users\User\source\repos\lab1\lab1\lab1.c(37,10): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\User\source\repos\lab1\lab1\lab1.c(37,10): message : рекомендуется использовать "%I64d" в строке форматирования
+  lab1.vcxproj -> C:\Users\User\source\repos\lab1\Debug\lab1.exe

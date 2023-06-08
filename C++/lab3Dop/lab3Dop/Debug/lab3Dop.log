@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\source\repos\lab3Dop\lab3Dop\main.c(28,14): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+  lab3Dop.vcxproj -> C:\Users\User\source\repos\lab3Dop\Debug\lab3Dop.exe

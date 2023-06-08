@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\source\repos\lab5\lab5\main.c(27,14): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+  lab5.vcxproj -> C:\Users\User\source\repos\lab5\Debug\lab5.exe

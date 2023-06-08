@@ -1,0 +1,4 @@
+﻿  lab0.c
+C:\Users\User\source\repos\lab0\lab0\lab0.c(6,37): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+C:\Users\User\source\repos\lab0\lab0\lab0.c(6,37): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 4
+  lab0.vcxproj -> C:\Users\User\source\repos\lab0\Debug\lab0.exe

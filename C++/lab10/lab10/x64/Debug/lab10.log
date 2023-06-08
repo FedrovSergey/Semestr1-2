@@ -1,0 +1,3 @@
+﻿  lab.cpp
+C:\Users\varva\source\repos\lab10\lab10\lab.cpp(13,21): warning C4102: flag: неиспользованная метка
+  lab10.vcxproj -> C:\Users\varva\source\repos\lab10\x64\Debug\lab10.exe
